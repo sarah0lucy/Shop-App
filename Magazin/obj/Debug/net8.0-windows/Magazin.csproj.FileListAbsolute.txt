@@ -1,0 +1,63 @@
+D:\Fac. prog\Magazin\Magazin\bin\Debug\net8.0-windows\Magazin.exe
+D:\Fac. prog\Magazin\Magazin\bin\Debug\net8.0-windows\Magazin.dll
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.Form1.resources
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.Properties.Resources.resources
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.Register.resources
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.csproj.GenerateResource.cache
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.AssemblyInfoInputs.cache
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.AssemblyInfo.cs
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.csproj.CoreCompileInputs.cache
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.dll
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\refint\Magazin.dll
+D:\Fac. prog\Magazin\Magazin\obj\Debug\net8.0-windows\Magazin.pdb
+C:\Users\otili\OneDrive\Desktop\2\Magazin\bin\Debug\net8.0-windows\Magazin.exe
+C:\Users\otili\OneDrive\Desktop\2\Magazin\bin\Debug\net8.0-windows\Magazin.dll
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.Form1.resources
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.Properties.Resources.resources
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.Register.resources
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.csproj.GenerateResource.cache
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.AssemblyInfoInputs.cache
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.AssemblyInfo.cs
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.dll
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\refint\Magazin.dll
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.pdb
+C:\Users\otili\OneDrive\Desktop\2\Magazin\bin\Debug\net8.0-windows\Magazin.deps.json
+C:\Users\otili\OneDrive\Desktop\2\Magazin\bin\Debug\net8.0-windows\Magazin.runtimeconfig.json
+C:\Users\otili\OneDrive\Desktop\2\Magazin\bin\Debug\net8.0-windows\Magazin.pdb
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.genruntimeconfig.cache
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\ref\Magazin.dll
+C:\Users\otili\OneDrive\Desktop\2\Magazin\obj\Debug\net8.0-windows\Magazin.Home.resources
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\Magazin.exe
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\Magazin.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.Form1.resources
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.Home.resources
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.Properties.Resources.resources
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.Register.resources
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.csproj.GenerateResource.cache
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.AssemblyInfoInputs.cache
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.AssemblyInfo.cs
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\refint\Magazin.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.pdb
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\Magazin.deps.json
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\Magazin.runtimeconfig.json
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\Magazin.pdb
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.genruntimeconfig.cache
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\ref\Magazin.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.csproj.AssemblyReference.cache
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.csproj.Up2Date
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.Factura.resources
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.Cos.resources
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\obj\Debug\net8.0-windows\Magazin.FormQRCode.resources
+C:\Users\otili\OneDrive\Desktop\merge\Magazin\bin\Debug\net8.0-windows\QRCoder.dll
